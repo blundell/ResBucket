@@ -8,10 +8,9 @@
         android:id="@+id/debug_drawable"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_gravity="right"
+        android:layout_alignParentRight="true"
         android:contentDescription="Debug info of screen res bucket"
-        android:src="@drawable/debug_drawable"
-        android:visibility="gone" />
+        android:src="@drawable/debug_drawable" />
 
     <TextView
         android:id="@+id/hello"
