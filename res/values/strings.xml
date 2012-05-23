@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MainAcitivty!</string>
+    <string name="content">Your content ......</string>
+    <string name="app_name">ResBucket</string>
+
+</resources>
