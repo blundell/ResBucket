@@ -4,5 +4,6 @@
     <string name="hello">Hello World, MainAcitivty!</string>
     <string name="content">Your content ......</string>
     <string name="app_name">ResBucket</string>
+    <string name="cont_desc_debug_info_of_screen_res_bucket">Debug info of screen res bucket</string>
 
 </resources>

@@ -9,7 +9,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentRight="true"
-        android:contentDescription="Debug info of screen res bucket"
+        android:contentDescription="@string/cont_desc_debug_info_of_screen_res_bucket"
         android:src="@drawable/debug_drawable" />
 
     <TextView
